@@ -1,111 +1,94 @@
 <h1 align="center">Hi 👋, I'm Rubén Pérez</h1>
+
 <h3 align="center">
-Founder at RPIdev · Full-Stack Developer · Digital & Automation Consultant
+Founder of <a href="https://rpidev.es">RPIdev</a> · Full-Stack Developer · Automation & Digitalization Consultant
 </h3>
 
 <p align="center">
-I help freelancers, startups and small businesses design, build and scale digital solutions that actually solve real problems.
+Building web platforms, mobile apps, IoT products and automations for small and medium businesses — from idea to production and beyond.
+</p>
+
+<p align="center">
+  <a href="https://rpidev.es"><img src="https://img.shields.io/badge/Website-rpidev.es-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/rub%C3%A9n-p%C3%A9rez-izuel-a02607189/"><img src="https://img.shields.io/badge/LinkedIn-Rubén%20Pérez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Granada,%20Spain-E34F26?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
 
 ### 👨‍💻 About me
 
-- 🚀 Founder of <strong>RPIdev</strong>, where I work as a full-stack developer and digital consultant.  
-- 🧩 I design and develop <strong>websites, web applications, internal tools and automations</strong> tailored to real business needs.  
-- 🤖 Experience working with <strong>data, AI-driven solutions and process automation</strong>.  
-- 🛠️ Strong focus on clean architecture, scalability and maintainability.  
+- 🚀 Founder of **RPIdev**, a digital agency helping Spanish SMEs grow through technology: **web development, SEO, mobile apps and business digitalization**.
+- 🧩 I design and build **websites, e-commerce stores, web applications, internal tools and automations** tailored to real business needs.
+- 🌐 I manage and maintain the infrastructure for **30+ client projects**, handling hosting, deployments, performance and security end to end.
+- 🤖 Daily work with **AI-assisted development, data pipelines and process automation** (n8n, LLM integrations, Claude Code).
+- 🛠️ Strong focus on clean architecture, performance, scalability and long-term maintainability.
 - 🤝 Open to collaborations, freelance projects and long-term partnerships.
 
-📫 **Contact:** https://www.rpidev.com
+---
+
+### 🧪 Products I'm building
+
+| Project | Description |
+|---|---|
+| 🌱 **[rpiot.es](https://rpiot.es)** | Agricultural IoT monitoring platform — sensor networks, real-time data and integrations for smarter farming. |
+| 🛍️ **[easychoose.es](https://easychoose.es)** | AI-powered product recommendation app that helps users pick the right product faster. |
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+### 🔧 What I do
 
-<h4 align="left">Programming Languages</h4>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<h4 align="left">Frontend</h4>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<h4 align="left">Backend</h4>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-</a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<h4 align="left">Databases</h4>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<h4 align="left">DevOps & Tools</h4>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-
-<h4 align="left">Other</h4>
-<a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-</a>
+- **Web & e-commerce** — WordPress / WooCommerce, Astro (SSR), Next.js
+- **Backend & APIs** — NestJS, Node.js, Django, Laravel
+- **Mobile** — Cross-platform apps with Flutter
+- **Automation** — n8n workflows, lead generation pipelines, AI integrations
+- **SEO** — Technical audits, on-page optimization and performance tuning
+- **IoT** — Hardware prototyping and data platforms (Arduino, Raspberry Pi)
+- **DevOps** — Linux servers, Docker, Plesk, Git-based deployments
 
 ---
 
-<h3 align="left">🔗 Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rub%C3%A9n-p%C3%A9rez-izuel-a02607189/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+### 🛠️ Tech stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,php,dart,bash" alt="Languages"/>
 </p>
+
+**Frontend & Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,html,css,wordpress" alt="Frontend"/>
+  <br/>
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+</p>
+
+**Backend & Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,laravel,flutter" alt="Backend and Mobile"/>
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="Databases"/>
+</p>
+
+**DevOps, Automation & IoT**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,arduino,raspberrypi" alt="DevOps and IoT"/>
+  <br/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white" alt="Plesk"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+</p>
+
+---
+
+### 📫 Let's work together
+
+Have a project in mind or need to digitalize your business?
+Reach out through **[rpidev.es](https://rpidev.es)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-p%C3%A9rez-izuel-a02607189/)**.
